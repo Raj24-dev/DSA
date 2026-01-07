@@ -18,7 +18,7 @@ void pattern12(int n){
       iniS +=2;
         cout<< endl;
     } 
-    iniS = 2*n-2;// iniS = 8;
+    iniS = 2*n-2; // iniS = 8;
      for(int i = 1; i<=n; i++){
         //star
        for(int j = 1; j<=i; j++){
